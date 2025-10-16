@@ -35,8 +35,8 @@ a{
   color: black;
 }
 h1{
-  font-size: 2.3rem;
-  font-weight: 500;
+  font-size: 2.5rem;
+  font-weight:400;
   opacity: .7;
 }
 h2{
@@ -306,8 +306,9 @@ span{
     justify-content: center;
   }
   .header-content{
+    align-self: center;
     text-align:start ;
-    width: 50%;
+    width: 60%;
     
   }
   .header-img{
